@@ -4,7 +4,7 @@ Welcome to **CashGainers**, the ultimate gaming platform where fun meets rewards
 
 ---
 
-## 🚀 Why Choose CoinsMakers?
+## 🚀 Why Choose CashGainers?
 
 - **💰 High Payouts**: Maximize your earnings by completing levels and missions.
 - **🕒 24/7 Support**: Get help anytime, anywhere.
@@ -15,7 +15,7 @@ Welcome to **CashGainers**, the ultimate gaming platform where fun meets rewards
 
 ## 🛠️ Built with Cutting-Edge Technology
 
-CoinsMakers leverages modern web technologies to deliver a seamless and efficient experience:
+CashGainers leverages modern web technologies to deliver a seamless and efficient experience:
 
 | Technology            | Purpose                                      |
 |------------------------|----------------------------------------------|
