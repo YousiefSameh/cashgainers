@@ -9,12 +9,14 @@
 	--color-blue-dark: rgba(29, 30, 48, 0.98);
 	--color-blue-light: #a9a8cd;
 	--color-blue-middle: #222339;
-	--color-panel-bg: #242835;
+	--color-background-color: #202020;
+	--color-panel-bg: #272B3A;
+	--color-panel-dark-bg: #0c0c12;
 	--color-main-color: #a9a9ca;
-	--color-secondary-color: #01d676;
+	--color-primary-color: #ffd60a;
+	--color-secondary-color: #ffc300;
 	--color-selective-yellow: #ffb703ff;
 	--color-ut-orange: #fb8500ff;
-	--color-primary-bg-color: var(--color-secondary-color);
 
 	/* Colors for the podium */
 	--color-gold-400: #ffd700;
