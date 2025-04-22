@@ -144,7 +144,7 @@ const Header = () => {
         </div>
       </header>
       <section
-        className="titles mt-[75px] md:mt-[100px] z-10 flex items-center gap-4 px-4 pb-3 relative overflow-auto w-full"
+        className="titles mt-[75px] md:mt-[90px] z-10 flex items-center gap-4 px-4 pb-3 relative overflow-auto w-full"
         aria-label="User Titles"
       >
         {Array.from({ length: 9 }, (_, index) => index).map((index) => {
@@ -165,7 +165,7 @@ const Header = () => {
                 Admin. Gift.
               </p>
               <span
-                className="badge badge-success text-white text-[8px] sm:text-[9px] py-[3px] px-[7px]"
+                className="badge bg-primary-color text-blue-middle border-none font-semibold text-[8px] sm:text-[9px] py-[3px] px-[7px]"
                 aria-label="Balance"
               >
                 $200.00
